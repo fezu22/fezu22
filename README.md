@@ -47,6 +47,8 @@ Prefer owning projects end-to-end — from requirements to delivery.
 
 <br/>
 
+---
+
 ### Projects
 
 | Project | Description |
@@ -66,10 +68,72 @@ Prefer owning projects end-to-end — from requirements to delivery.
 
 ---
 
-### Activity
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fezu22&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=fezu22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fezu22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fezu22&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+<br/>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fezu22&theme=tokyo-night&hide_border=true&area=true&custom_title=Faraz%20Khalil%20Contribution%20Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/fezu22/github-streak/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+### 🚀 Current Focus
+
+<div align="center">
+
+`React Native` · `React` · `Node.js` · `Firebase` · `MongoDB` · `Supabase` · `n8n` · `AI Automation`
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Let's Build Something 🚀
+
+<a href="mailto:muhammadfarazkhalil94@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/fezu22">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 <br/>
