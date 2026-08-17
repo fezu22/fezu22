@@ -66,7 +66,7 @@ I'm also exploring **AI, automation and n8n workflows** to build smarter product
 
 ---
 
-# 🚀 What I'm Building
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -83,19 +83,21 @@ I'm also exploring **AI, automation and n8n workflows** to build smarter product
 
 ---
 
-# 💡 My Current Mission
+# 📊 GitHub Activity & Stats
 
-> **Build useful software instead of just writing code.**
+<div align="center">
 
-I'm currently focusing on:
+<a href="https://github.com/fezu22">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=fezu22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/fezu22">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=fezu22&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,go,golang" />
+</a>
 
-```text
-AI
- ↓
-Automation
- ↓
-Web & Mobile Apps
- ↓
-Real Business Problems
- ↓
-Useful Products
+<br/><br/>
+
+<a href="https://github.com/fezu22">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fezu22&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</a>
+
+</div>
